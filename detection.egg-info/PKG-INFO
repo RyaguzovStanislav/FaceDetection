@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: detection
+Version: 1.0
+Summary: detection - пакеты и модули механизма детекции лиц на фото
+Requires-Python: >=3.8
+
+Пакеты и модули механизма детекции лиц на фото

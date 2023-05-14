@@ -1,0 +1,5 @@
+I Библиотеки для детекции лиц:
+1)mtcnn - https://pypi.org/project/mtcnn/
+2)opencv-python - https://pypi.org/project/opencv-python/
+3)tensorflow - https://pypi.org/project/tensorflow/
+4)pillow - https://pypi.org/project/Pillow/
